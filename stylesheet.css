@@ -34,6 +34,7 @@ body {
 
 .answer {
     display: block;
+    font-weight: 400;
 }
 
 .accordian {
@@ -53,6 +54,7 @@ body {
     font-weight: 400;
     margin:1rem 0rem;
     color: hsl(237, 12%, 33%);
+    font-weight: 700;
 }
 
 .question:hover {
@@ -132,7 +134,13 @@ body {
         font-weight: 400;
         margin:1rem 0rem;
         color: hsl(237, 12%, 33%);
+        font-weight: 700;
     }
+    
+        .answer {
+        font-weight: 400;
+    }
+
 
     .imagewrap {
         position: absolute;
